@@ -1,4 +1,4 @@
-# bahaar-wave-practice
+# bahaar-hentai
 
 Note: All commands start with the prefix `/8 bahaar`
 Works with patch v92.4
