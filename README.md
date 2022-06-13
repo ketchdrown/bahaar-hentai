@@ -1,7 +1,6 @@
 # bahaar-hentai
 
-Note: All commands start with the prefix `/8 bahaar`
-Works with patch v92.4
+Note: Works with patch 92.4 \\ All commands start with the prefix `/8 bahaar`
 
 
 Command | Description
