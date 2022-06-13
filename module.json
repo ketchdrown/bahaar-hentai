@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": false,
+    "name": "bahaar-hentai",
+    "author": "&nbsp;<font color='#FFC0CB'>ketchdrown</font>",
+    "description": "Spawns bahaar lmao",
+    "version": "1.0",
+    "options": {
+        "niceName": "<font color='#FFC0CB'> BahaarHentai </font>"
+    },
+    "dependencies": {
+        "library": "https://raw.githubusercontent.com/tera-private-toolbox/library/master/module.json"
+    },
+    "servers": ["https://raw.githubusercontent.com/ketchdrown/bahaar-hentai/master/"],
+    "supportUrl": "https://github.com/ketchdrown/bahaar-hentai/issues/"
+}
