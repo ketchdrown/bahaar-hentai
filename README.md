@@ -1,6 +1,6 @@
 # bahaar-hentai
 
-Note: Works with patch 92.4
+Works with patch 92.4
 
 
 Command | Description
